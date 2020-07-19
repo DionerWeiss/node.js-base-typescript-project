@@ -2,7 +2,7 @@
 Base project in Node.js configured with TypeScript, Eslint, Prettier and Editor Config
 </br>
 
-<p><b>Tecnologies:</b></p> 
+<p><b>Techs:</b></p> 
 <li>Yarn</li> 
 <li>Typescript</li>
 <li>Express </li>
